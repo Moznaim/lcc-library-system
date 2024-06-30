@@ -1,5 +1,5 @@
 # lcc-library-system
 
-#Change the connection base on your mysql localhost
+### When I created this code God and me knows, but now only God knows
 
-#
+
